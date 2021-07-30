@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63" started-at="2021-07-21T16:48:54 EDT" finished-at="2021-07-21T16:48:54 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63" started-at="2021-07-21T16:48:54 EDT" finished-at="2021-07-21T16:48:54 EDT">
+      <class name="test.day2">
+        <test-method status="PASS" signature="ploan()[pri:0, instance:test.day2@2a17b7b6]" name="ploan" duration-ms="3" started-at="2021-07-21T16:48:54 EDT" finished-at="2021-07-21T16:48:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ploan -->
+      </class> <!-- test.day2 -->
+      <class name="test.day1">
+        <test-method status="PASS" signature="Demo()[pri:0, instance:test.day1@72b6cbcc]" name="Demo" duration-ms="9" started-at="2021-07-21T16:48:54 EDT" finished-at="2021-07-21T16:48:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:test.day1@72b6cbcc]" name="Test2" duration-ms="2" started-at="2021-07-21T16:48:54 EDT" finished-at="2021-07-21T16:48:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- test.day1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
